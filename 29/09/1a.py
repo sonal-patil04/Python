@@ -1,3 +1,5 @@
+# Print your name and age using separator
+
 nm=input("Enter your name : ")
 age = int(input("Enter age : "))
 
